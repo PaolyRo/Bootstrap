@@ -1,0 +1,15 @@
+.btn{
+    margin: 10px;
+    color:bisque;
+    border-radius: 5rem;
+    border: none;
+    background-color: darkgreen;
+}
+.form-control{
+  width: 100%;
+  padding: 10px;
+  margin: 10px;
+  box-sizing: border-box;
+  border: 2px solid rgb(32, 126, 98);
+  border-radius: 8px;
+}
